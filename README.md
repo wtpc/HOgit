@@ -1,3 +1,5 @@
+Charlas agregadas
+
 # HOgit (primera modificación de prueba)
 Repositorio con ejercicios para practicar comandos básicos de git
 
