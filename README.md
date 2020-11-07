@@ -1,3 +1,6 @@
+HOLA SOY JULIA, ahora entre desde la rama 1
+
+
 # HOgit
 Repositorio con ejercicios para practicar comandos básicos de git
 
