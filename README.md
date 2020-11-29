@@ -106,7 +106,7 @@ git push -u origin charlas
 y listo! en nuestra cuenta de github ya tiene que estar subido. pueden ver el network de github que les va a mostrar la historia
 
 Luego también editamos este readme para agregar los comandos con los que hicimos el repositorio
-
+ilisto
 
 ```
 vi README.md
